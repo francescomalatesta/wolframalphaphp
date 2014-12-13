@@ -1,0 +1,31 @@
+<assumptions count='1'>
+    <assumption type='Clash'
+                word='e'
+                template='Assuming &quot;${word}&quot; is ${desc1}. Use as ${desc2} instead'
+                count='8'>
+        <value name='Character'
+               desc='a character'
+               input='*C.e-_*Character-' />
+        <value name='MusicNote'
+               desc='a musical note'
+               input='*C.e-_*MusicNote-' />
+        <value name='NamedConstant'
+               desc='a mathematical constant'
+               input='*C.e-_*NamedConstant-' />
+        <value name='Particle'
+               desc='a particle'
+               input='*C.e-_*Particle-' />
+        <value name='Unit'
+               desc='a unit'
+               input='*C.e-_*Unit-' />
+        <value name='MathWorldClass'
+               desc='a class of mathematical terms'
+               input='*C.e-_*MathWorldClass-' />
+        <value name='MathWorld'
+               desc=' referring to a mathematical definition'
+               input='*C.e-_*MathWorld-' />
+        <value name='Gene'
+               desc='a gene'
+               input='*C.e-_*Gene-' />
+    </assumption>
+</assumptions>

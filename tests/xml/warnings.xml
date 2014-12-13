@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<queryresult success='true' error='false' numpods='12'
+             datatypes='City,MetropolitanArea,UrbanArea,USCounty,USState'
+             timedout='' timing='6.464' parsetiming='0.141' parsetimedout='false'
+             recalculate='' version='2.0'>
+    <tips count='1'>
+        <tip text='Check your spelling, and use English' />
+    </tips>
+    <warnings count='1'>
+        <spellcheck word='chicag'
+                    suggestion='chicago'
+                    text='Interpreting &quot;chicag&quot; as &quot;chicago&quot;' />
+    </warnings>
+    <didyoumeans count='1'>
+        <didyoumean>frances split</didyoumean>
+    </didyoumeans>
+</queryresult>

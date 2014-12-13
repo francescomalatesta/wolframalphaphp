@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<queryresult success='true'
+             error='false'
+             numpods='7'
+             datatypes=''
+             timedout='ComputerKeyboard,Data'
+             timedoutpods=''
+             timing='1.449'
+             parsetiming='0.185'
+             parsetimedout='false'
+             recalculate='http://www4c.wolframalpha.com/api/v2/recalc.jsp?id=MSPa771h5ch50ai722bd9g000067b29i2g636gifg9&amp;s=50'
+             id='MSPa781h5ch50ai722bd9g00005773cdfh0abc4g5h'
+             host='http://www4c.wolframalpha.com'
+             server='50'
+             related='http://www4c.wolframalpha.com/api/v2/relatedQueries.jsp?id=MSPa791h5ch50ai722bd9g00004c810g479c9f0h94&amp;s=50'
+             version='2.6'>
+    <warnings count='1'>
+        <spellcheck word='chicag'
+                    suggestion='chicago'
+                    text='Interpreting &quot;chicag&quot; as &quot;chicago&quot;' />
+    </warnings>
+    <error>
+        <code>1</code>
+        <msg>Invalid appid</msg>
+    </error>
+    <assumptions count='1'>
+        <assumption type='Clash'
+                    word='eta'
+                    template='Assuming &quot;${word}&quot; is ${desc1}. Use as ${desc2} instead'
+                    count='4'>
+            <value name='Character'
+                   desc='a character'
+                   input='*C.eta-_*Character-' />
+            <value name='Chemical'
+                   desc='a chemical compound'
+                   input='*C.eta-_*Chemical-' />
+            <value name='Particle'
+                   desc='a particle'
+                   input='*C.eta-_*Particle-' />
+            <value name='Word'
+                   desc='a word'
+                   input='*C.eta-_*Word-' />
+        </assumption>
+    </assumptions>
+</queryresult>
