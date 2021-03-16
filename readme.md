@@ -18,7 +18,7 @@ Installing the Wolfram|Alpha PHP Wrapper is very easy. In your project, just add
 
     {
         "require": {
-            "francescomalatesta/wolframalpha": "dev-master"
+            "francescomalatesta/wolframalphaphp": "dev-master"
         }
     }
 
